@@ -1,8 +1,5 @@
 <h1 align="center">PhantomDaze</h1>
 <h3 align="center">Software Developer</h3>
-
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/phantomdaze)](https://ghfind.com/u/phantomdaze?ref=badge)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhantomDaze&label=Profile%20views&color=0e75b6&style=flat" alt="PhantomDaze" />
 </p>
@@ -11,7 +8,6 @@
 🧰 技术栈 (Tech Stack)
 
 <p align="left">
-  <!-- 编程语言 -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
