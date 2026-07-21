@@ -1,7 +1,7 @@
 <h1 align="center">PhantomDaze</h1>
 <h3 align="center">Software Developer</h3>
 
-[![GitHub Roast](https://githubroast.icu/api/card/PhantomDaze)](https://githubroast.icu/u/PhantomDaze)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/phantomdaze)](https://ghfind.com/u/phantomdaze?ref=badge)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhantomDaze&label=Profile%20views&color=0e75b6&style=flat" alt="PhantomDaze" />
